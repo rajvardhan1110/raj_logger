@@ -1,0 +1,12 @@
+{
+  "name": "raj-logger",
+  "version": "1.0.0",
+  "description": "A colorful Node.js logger with emojis, timestamps, and pretty printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": ["logger", "console", "nodejs", "colors", "emoji", "logging", "terminal"],
+  "author": "Rajvardhan",
+  "license": "MIT"
+}
